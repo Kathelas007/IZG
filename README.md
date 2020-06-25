@@ -1,2 +1,2 @@
 # IZG - Computer Graphics Principles
-Proj - Implementation of basic GPU
+Proj - Implementation of basic GPU. 
